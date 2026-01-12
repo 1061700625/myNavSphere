@@ -5,6 +5,7 @@ pages_build_output_dir = ".vercel/output/static"
 
 [env.production.vars]
 GITHUB_CLIENT_ID = "Ov23liq4RsgK5P9nu0Jn"
+GITHUB_ID = "Ov23liq4RsgK5P9nu0Jn"
 GITHUB_OWNER = "1061700625"
 GITHUB_REPO = "myNavSphere"
 GITHUB_BRANCH = "main"
