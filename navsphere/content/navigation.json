@@ -264,6 +264,14 @@
               "href": "https://aistudio.google.com/prompts/new_chat",
               "description": "Google AI Studio",
               "icon": "/assets/favicon_1764762488719.webp"
+            },
+            {
+              "id": "item-1768723658110",
+              "enabled": true,
+              "title": "食品安全分析助手",
+              "href": "https://food.xfxuezhang.cn/",
+              "description": "",
+              "icon": "https://www.google.com/s2/favicons?sz=128&domain=food.xfxuezhang.cn"
             }
           ]
         },
