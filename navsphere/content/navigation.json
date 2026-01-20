@@ -156,6 +156,14 @@
           "href": "https://pagespeed.web.dev/",
           "description": "",
           "icon": "/assets/favicon_1765687105275.webp"
+        },
+        {
+          "id": "item-1768885793689",
+          "enabled": true,
+          "title": "中国科技云学术智能体平台",
+          "href": "https://xueshu.cstcloud.cn/",
+          "description": "智能化学术研究工具，中国科技云助力科研创新和学术进展",
+          "icon": "https://www.google.com/s2/favicons?sz=128&domain=xueshu.cstcloud.cn"
         }
       ],
       "subCategories": [],
