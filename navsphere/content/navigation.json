@@ -426,7 +426,16 @@
       "icon": "Box",
       "description": "开发者工具，工具包",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1768879320187",
+          "enabled": true,
+          "title": "NirSoft - freeware utilities: password recovery, system utilities, desktop utilities",
+          "href": "https://www.nirsoft.net/",
+          "description": "Unique collection of freeware desktop utilities, system utilities, password recovery tools, and more",
+          "icon": "/assets/favicon_1768879294583.ico"
+        }
+      ],
       "subCategories": [
         {
           "id": "85e2f8e6-8b32-4452-9022-2ff45065ecf9",
