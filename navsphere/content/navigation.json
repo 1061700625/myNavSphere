@@ -184,6 +184,14 @@
           "href": "https://github.com/Leey21/awesome-ai-research-writing",
           "description": "Elevate your AI research writing, no more tedious polishing ✨  - GitHub - Leey21/awesome-ai-research-writing: Elevate your AI research writing, no more tedious polishing ✨",
           "icon": "/assets/favicon_1779676787563.png"
+        },
+        {
+          "id": "item-1779677024393",
+          "enabled": true,
+          "title": "自动科研Claw",
+          "href": "https://github.com/aiming-lab/AutoResearchClaw",
+          "description": "Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 - aiming-lab/AutoResearchClaw",
+          "icon": "/assets/favicon_1779677011747.png"
         }
       ],
       "subCategories": []
