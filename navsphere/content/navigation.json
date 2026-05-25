@@ -168,6 +168,14 @@
           "href": "https://github.com/aiming-lab/AutoResearchClaw",
           "description": "Fully autonomous &amp; self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞 - aiming-lab/AutoResearchClaw",
           "icon": "/assets/favicon_1779677011747.png"
+        },
+        {
+          "id": "item-1779677249738",
+          "enabled": true,
+          "title": "论文写作Skill",
+          "href": "https://github.com/Imbad0202/academic-research-skills",
+          "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize - Imbad0202/academic-research-skills",
+          "icon": "/assets/favicon_1779677218975.png"
         }
       ],
       "subCategories": []
