@@ -176,6 +176,14 @@
           "href": "https://github.com/Imbad0202/academic-research-skills",
           "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize - Imbad0202/academic-research-skills",
           "icon": "/assets/favicon_1779677218975.png"
+        },
+        {
+          "id": "item-1779678012486",
+          "enabled": true,
+          "title": "AI科研SKILLs大全",
+          "href": "https://github.com/Orchestra-Research/AI-Research-SKILLs",
+          "description": "Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research. - Orchestra-Research/AI-Research-SKILLs",
+          "icon": "/assets/favicon_1779677993001.png"
         }
       ],
       "subCategories": []
