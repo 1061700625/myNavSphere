@@ -176,7 +176,16 @@
       "icon": "FolderKanban",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "item-1779676791805",
+          "enabled": true,
+          "title": "AI写作画图",
+          "href": "https://github.com/Leey21/awesome-ai-research-writing",
+          "description": "Elevate your AI research writing, no more tedious polishing ✨  - GitHub - Leey21/awesome-ai-research-writing: Elevate your AI research writing, no more tedious polishing ✨",
+          "icon": "/assets/favicon_1779676787563.png"
+        }
+      ],
       "subCategories": []
     },
     {
