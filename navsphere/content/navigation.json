@@ -1585,6 +1585,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1779676647599",
+      "title": "科研工具包",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
